@@ -8,9 +8,9 @@ The dashboards provide insights into sales performance, customer behavior, and p
 # 🔑 Key Features
 
 # Customer Dashboard
-•	Tracks total customers, repeat customers, and sales per customer
-•	Highlights top 10 customers by profit
-•	Segments customers by order frequency & contribution
+-Tracks total customers, repeat customers, and sales per customer
+-Highlights top 10 customers by profit
+-Segments customers by order frequency & contribution
 
 # Sales Dashboard
 •	Monitors total sales, total orders, and overall profit
